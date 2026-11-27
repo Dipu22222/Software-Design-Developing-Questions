@@ -4,7 +4,7 @@
 
 ### An Outcome-Based Education (OBE) Question Bank for Software Engineering
 
-![Course](https://img.shields.io/badge/Course-Software%20Engineering-1f6feb?style=for-the-badge)
+
 ![Questions](https://img.shields.io/badge/Questions-10-2da44e?style=for-the-badge)
 ![Marks](https://img.shields.io/badge/Total%20Marks-40-d29922?style=for-the-badge)
 ![Duration](https://img.shields.io/badge/Duration-1%20Hour-8250df?style=for-the-badge)
@@ -18,10 +18,8 @@
 
 | | |
 |---|---|
-| **Name** | `[Your Name]` |
-| **Student ID** | `[Your ID]` |
-| **Section / Batch** | `[Your Section / Batch]` |
-| **Submitted to** | `[Teacher's Name]` |
+| **Name** | `[Dipu Mondol]` |
+| **Student ID** | `[IT24040]` |
 
 ---
 
